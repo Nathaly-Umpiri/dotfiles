@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nathaly.umpiri@gmail.com
+	name = Nathaly Umpiri
